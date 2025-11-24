@@ -1,0 +1,33 @@
+{
+  "game": {
+    "starting_budget": 1000000000000,
+    "time_horizon_years": 30,
+    "turn_length_years": 1,
+    "victory_conditions": {
+      "net_zero_year": 2050,
+      "temperature_target_celsius": 1.5
+    }
+  },
+  "economy": {
+    "initial_gdp": 90000000000000,
+    "carbon_price": 50,
+    "growth_rate": 0.02
+  },
+  "politics": {
+    "policy_adoption_rate": 0.1,
+    "international_cooperation": 0.5
+  },
+  "culture": {
+    "public_opinion_index": 0.6,
+    "misinformation_factor": 0.2
+  },
+  "security": {
+    "conflict_risk": 0.1,
+    "migration_pressure": 0.05
+  },
+  "climate": {
+    "initial_emissions_gt": 40,
+    "temperature_increase_celsius": 1.1,
+    "tipping_point_threshold": 2.0
+  }
+}

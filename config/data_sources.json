@@ -1,0 +1,22 @@
+{
+  "economic_data": {
+    "source": "https://api.worldbank.org/v2/",
+    "description": "Global GDP, trade, carbon pricing"
+  },
+  "climate_data": {
+    "source": "https://climate.nasa.gov/api/",
+    "description": "Temperature, emissions, tipping points"
+  },
+  "political_data": {
+    "source": "https://data.un.org/",
+    "description": "Treaties, policy adoption"
+  },
+  "cultural_data": {
+    "source": "https://newsapi.org/",
+    "description": "Public opinion, activism, misinformation"
+  },
+  "security_data": {
+    "source": "https://conflict-data.org/api/",
+    "description": "Resource conflicts, migration"
+  }
+}
