@@ -11,7 +11,6 @@
 
 > **Core Question:**  
 > *If you had \$1 trillion to influence global climate outcomes, what would you do—and what ripple effects would follow?*  
-
 ---
 What You’ll Discover
 
@@ -53,7 +52,10 @@ Every move is a mirror—what kind of strategist will you become?
 - Deliver an **interactive dashboard** for scenario testing and visualization.  
 - Foster **critical thinking** about climate policy, economics, and cooperation.
   
-The game leverages **real-world datasets, OSINT sources, and dynamic modeling** to simulate **economic, political, cultural, and security feedback loops**. It’s designed as both an **educational tool** and a **policy sandbox**, enabling users to explore trade-offs, systemic risks, and unintended consequences.  
+
+## Overview  
+The game leverages **real-world datasets, OSINT sources, and dynamic modeling** to simulate **economic, political, cultural, and security feedback loops**. It’s designed as both an **educational tool** and a **policy sandbox**, enabling users to explore trade-offs, systemic risks, and unintended consequences.
+  
 ---
 
 ## Architecture  
